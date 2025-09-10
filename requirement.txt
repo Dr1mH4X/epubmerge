@@ -1,2 +1,2 @@
-PyQt5
-ebooklib
+PyQt5==5.15.11
+ebooklib==0.19
